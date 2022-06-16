@@ -20,7 +20,7 @@
   margin: -100px 0 0 -150px;
   flex-direction: column;
   align-items: center;
-  background-color: rgba(59, 59, 59, 0.3);
+  
   }
 
   .bun {
@@ -34,7 +34,7 @@
     margin: -273px 0 0 -225px;
     flex-direction: column;
     align-items: center;
-    background-color: rgba(59, 59, 59, 0.3);
+    
   }
 
   .title {
